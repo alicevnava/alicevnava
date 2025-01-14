@@ -1,5 +1,27 @@
 # 💫 About Me:
-Olá! Sou Alice Vivas Nava, desenvolvedora em transição de carreira e apaixonado por tecnologia e inovação.<br>Atualmente, estou focada no desenvolvimento front-end com HTML, CSS e JavaScript, além de iniciar meus estudos em Angular e Go Lang. 👩🏼‍💻
+# Olá, meu nome é Alice Vivas Nava! 👋
+
+Sou **Desenvolvedora Front-End** apaixonada por tecnologia e inovação!  
+Atualmente, foco no **desenvolvimento front-end** com **HTML, CSS e JavaScript** e estou explorando **Go Lang** e **Angular**.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas  
+- **Linguagens:** Go Lang, JavaScript, HTML, CSS  
+- **Frameworks:** Angular (em aprendizado)  
+- **Outros:** Git, VS Code, Bootstrap  
+
+---
+
+### 📚 Sobre Mim  
+Graduada em Biologia, desenvolvi habilidades analíticas e organizacionais que aplico no mundo da tecnologia.  
+Adoro aprender coisas novas e contribuir com projetos criativos!
+
+---
+
+### 📫 Contatos  
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu_usuario)
 
 
 ## 🌐 Socials:
