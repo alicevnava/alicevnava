@@ -8,7 +8,7 @@ Atualmente, foco no **desenvolvimento front-end** com **HTML, CSS e JavaScript**
 
 ### 🛠️ Tecnologias e Ferramentas  
 - **Linguagens:** Go Lang, JavaScript, HTML, CSS  
-- **Frameworks:** Angular (em aprendizado)  
+- **Frameworks:** React (em aprendizado)  
 - **Outros:** Git, VS Code, Bootstrap  
 
 ---
