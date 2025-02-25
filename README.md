@@ -2,7 +2,7 @@
 # Olá, meu nome é Alice Vivas Nava! 👋
 
 Sou **Desenvolvedora Front-End** apaixonada por tecnologia e inovação!  
-Atualmente, foco no **desenvolvimento front-end** com **HTML, CSS e JavaScript** e estou explorando **Go Lang** e **Angular**.
+Atualmente, foco no **desenvolvimento front-end** com **HTML, CSS e JavaScript** e estou explorando **React**.
 
 ---
 
