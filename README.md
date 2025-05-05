@@ -25,7 +25,5 @@ Adoro aprender coisas novas e contribuir com projetos criativos!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu_usuario) [![Telefone](https://img.shields.io/badge/-Telefone-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+5561998171173) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vivasn.alice@gmail.com)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alice-vivas-nava) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
