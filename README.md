@@ -1,8 +1,26 @@
+# Olá, eu sou a Alice 👋
 
+**Trainee de Infraestrutura na Positivo S+** | Linux · DevOps · IA (Infraestrutura)
 
-### 📫 Contatos  
+- 🐧 Pratico administração de servidores Linux em laboratórios com VMs e na AWS
+- ☁️ Documento cada laboratório para que possa ser refeito do zero
+- 📚 Me preparando para EXIN DevOps Professional, RHCSA e EXIN AI Foundation
+- 🎧 Experiência anterior como Suporte N1 em ambiente Microsoft (Active Directory, Entra ID, MFA)
+- 🎓 Graduada em Análise e Desenvolvimento de Sistemas (Senac DF)
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu_usuario) [![Telefone](https://img.shields.io/badge/-Telefone-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+5561998171173) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vivasn.alice@gmail.com)
+## 🔧 Projeto em destaque
 
+**[devops](https://github.com/alicevnava/devops)** — laboratórios do trainee documentados passo a passo:
+instalação do SEI/SIP em Amazon Linux 2 (Apache, PHP, MySQL, Solr, Memcached, HTTPS),
+publicação de aplicação PHP em VM, cron, troubleshooting e Docker na AWS.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tecnologias
+
+**Infraestrutura:** Linux · SSH · AWS EC2 · Apache · MySQL · VirtualBox
+**Ferramentas:** Git · GitHub
+**Desenvolvimento:** HTML · CSS · JavaScript · PHP
+
+## 📫 Contatos
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-vivas-nava/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vivasn.alice@gmail.com)
