@@ -6,7 +6,7 @@
 - ☁️ Documento cada laboratório para que possa ser refeito do zero
 - 📚 Me preparando para EXIN DevOps Professional, RHCSA e EXIN AI Foundation
 - 🎧 Experiência anterior como Suporte N1 em ambiente Microsoft (Active Directory, Entra ID, MFA)
-- 🎓 Graduada em Análise e Desenvolvimento de Sistemas (Senac DF)
+- 🎓 Graduada em Análise e Desenvolvimento de Sistemas
 
 ## 🔧 Projeto em destaque
 
