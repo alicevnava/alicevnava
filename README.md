@@ -16,9 +16,9 @@ publicação de aplicação PHP em VM, cron, troubleshooting e Docker na AWS.
 
 ## 🛠️ Tecnologias
 
-**Infraestrutura:** Linux · SSH · AWS EC2 · Apache · MySQL · VirtualBox
-**Ferramentas:** Git · GitHub
-**Desenvolvimento:** HTML · CSS · JavaScript · PHP
+- **Infraestrutura:** Linux · SSH · AWS EC2 · Apache · MySQL · VirtualBox
+- **Ferramentas:** Git · GitHub
+- **Desenvolvimento:** HTML · CSS · JavaScript · PHP
 
 ## 📫 Contatos
 
