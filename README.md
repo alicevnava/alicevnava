@@ -5,7 +5,7 @@
 - 🐧 Pratico administração de servidores Linux em laboratórios com VMs e na AWS
 - ☁️ Documento cada laboratório para que possa ser refeito do zero
 - 📚 Me preparando para EXIN DevOps Professional, RHCSA e EXIN AI Foundation
-- 🎧 Experiência anterior como Suporte N1 em ambiente Microsoft (Active Directory, Entra ID, MFA)
+- 🎧 Experiência anterior como Analista de Suporte em ambiente Microsoft (Active Directory, Entra ID, MFA)
 - 🎓 Graduada em Análise e Desenvolvimento de Sistemas
 
 ## 🔧 Projeto em destaque
@@ -17,7 +17,7 @@ publicação de aplicação PHP em VM, cron, troubleshooting e Docker na AWS.
 ## 🛠️ Tecnologias
 
 - **Infraestrutura:** Linux · SSH · AWS EC2 · Apache · MySQL · VirtualBox
-- **Ferramentas:** Git · GitHub
+- **Ferramentas:** Git · GitHub · Shell Script
 - **Desenvolvimento:** HTML · CSS · JavaScript · PHP
 
 ## 📫 Contatos
