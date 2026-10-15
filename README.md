@@ -1,6 +1,6 @@
 # Olá, eu sou a Alice 👋
 
-**Trainee de Infraestrutura na Positivo S+** | Linux · DevOps · IA (Infraestrutura)
+**Trainee de Infraestrutura | Linux · DevOps · Infraestrutura para IA
 
 - 🐧 Pratico administração de servidores Linux em laboratórios com VMs e na AWS
 - ☁️ Documento cada laboratório para que possa ser refeito do zero
